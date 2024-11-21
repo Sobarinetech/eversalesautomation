@@ -38,7 +38,7 @@ if submit_button:
             st.write(proposal_text)
 
             # Email configuration
-            sender_email = "your_email@example.com"  # Replace with your email
+            sender_email = "mahalaxmiastrovastu01@gmail.com"  # Replace with your email
             sender_password = st.secrets["EMAIL_PASSWORD"]  # Add this secret to Streamlit's secrets
             recipient_email = email
 
